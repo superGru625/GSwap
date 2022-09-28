@@ -1,0 +1,77 @@
+.business-list-table {
+
+	.business-item {
+		&.business-item-image {
+			width: 120px;
+			text-align: left;
+		}
+
+		.business-image {
+			max-width: 100px;
+		}
+
+		&.business-item-actions {
+			width: 150px;
+			text-align: center;
+
+			button {
+				width: 100%;
+			}
+		}
+	}
+}
+
+.business-modal {
+	.btn-list-business {		
+	}
+}
+
+.btn-processing {
+	&.processing {
+		pointer-events: none;
+		cursor: not-allowed;
+		color: transparent !important;
+		&:before {
+			content: "";
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			background-color: $px-theme;
+			pointer-events: none;
+			z-index: 1;
+			cursor: auto;
+		}
+		&:after {
+			content: '';
+			box-sizing: border-box;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			width: 20px;
+			height: 20px;
+			margin-top: -10px;
+			margin-left: -10px;
+			border-radius: 50%;
+			border: 2px solid #ccc;
+			border-top-color: $px-theme;
+			animation: spinner .6s linear infinite;
+			z-index: 2;
+		}
+	}
+}
+
+@-webkit-keyframes spinner {
+  	to {
+	    -webkit-transform: rotateZ(360deg);
+	            transform: rotateZ(360deg);
+  	}
+}
+
+@keyframes spinner {
+  	to {
+	    -webkit-transform: rotateZ(360deg);
+	            transform: rotateZ(360deg);
+  	}
+}

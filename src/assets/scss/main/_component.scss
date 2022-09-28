@@ -1,0 +1,26 @@
+.wallet-connect-modal {
+	.wallet-logo {
+		max-height: 50px;
+	}
+
+	.btn-wallet {
+		width: 100%;
+	}
+}
+
+.btn-primary-alt {
+	color: $white !important;
+	font-weight: bold;
+	background: linear-gradient(90deg, #f5a45a 0%, #c15c50 100%);
+	width: 100%;
+	max-width: 350px;
+  	border-radius: 0;
+  	box-shadow: none !important;
+  	border: 0;
+  	outline: none !important;
+  	opacity: 0.95;
+  	&:hover {
+  		opacity: 1;
+  	}
+
+}

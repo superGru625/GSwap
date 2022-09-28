@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Gridsome",
+		"logo": "/img/logo/gridsome-logo.svg",
+		"wallet": "0x004D32f880567716538571b3a5A5594056ab27FA",
+		"description": "A Jamstack framework for Vue.js Gridsome makes it easy for developers to build static generated websites & apps that are fast by default Build websites with modern tools like Vue.js, GraphQL & all the power of Node.js & the JavaScript ecosystem. Develop locally and get instant hot-reloading for any code change.",
+		"website": "https://gridsome.org/",
+		"company": "Hans-Jørgen Vedvik & Tommy Vedvik",
+		"repo": "https://github.com/gridsome/gridsome",
+		"project_type": "Personal / Open source project",
+		"license": "MIT",
+		"developer": "Hans-Jørgen Vedvik Tommy Vedvik",
+		"developer_socials": [
+			"https://gridsome.org/contributor/hjvedvik/",
+			"https://twitter.com/hjvedvik",
+			"https://hjvedvik.com/",
+			"https://no.linkedin.com/in/hjvedvik",
+			"https://twitter.com/tommyvedvik",
+			"https://no.linkedin.com/in/tommy-vedvik-4121556"
+		],
+		"project_socials": [
+			"https://discord.com/invite/daeay6n",
+			"https://twitter.com/gridsome",
+			"https://www.facebook.com/groups/417205102155312"
+		],
+		"best_email": "",
+		"contact_details": ""
+	},
+	{
+		"name": "Ghost",
+		"logo": "/img/logo/ghost-logo.png",
+		"wallet": "0x96E8EB5b9f4d974c22Db5Dd1FB01BA37C4943A4a",
+		"description": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. Ecommerce redefined how people buy products, the creator economy is redefining how people buy content. Ghost makes independent technology for creators to publish online and build a sustainable subscription business to fund their work.",
+		"website": "https://ghost.org/",
+		"company": "Steph Smith & Albert Henk van Urk",
+		"repo": "https://github.com/TryGhost/Ghost",
+		"project_type": "",
+		"license": "MIT",
+		"developer": "Steph Smith & Albert Henk van Urk",
+		"developer_socials": "",
+		"project_socials": "",
+		"best_email": "support@ghost.org",
+		"contact_details": ""
+	},
+	{
+		"name": "Netlify Cms",
+		"logo": "/img/logo/netlifycms-logo.png",
+		"wallet": "0xB6038E49dA0C8AD46F9241782D2843F3dB3580C3",
+		"description": "A Git-based CMS for Static Site Generators Netlify CMS is built as a single-page React app. Create custom-styled previews, UI widgets, and editor plugins or add backends to support different Git platform APIs.",
+		"website": "https://www.netlifycms.org/",
+		"company": "",
+		"repo": "https://github.com/netlify/netlify-cms",
+		"project_type": "",
+		"license": "MIT",
+		"developer": "",
+		"developer_socials": "",
+		"project_socials": [
+			"https://twitter.com/netlifycms"
+		],
+		"best_email": "",
+		"contact_details": ""
+	},
+	{
+		"name": "Redwood",
+		"logo": "/img/logo/redwoodjs-logo.png",
+		"wallet": "0x8c0f684Afc5De96aD5366f9Fdda682eF1c9cdc12",
+		"description": "The App Framework for Startups. Redwood includes deploy support for Netlify, Vercel, Render.com, AWS and more. Deploy serverless or serverfull and scale from zero servers to a thousand. Built on React, GraphQL, and Prisma, with full TypeScript support, and Webpack/Babel ready to go with zero config. Redwood gives you the workflow you love, but with simple conventions and helpers to make your experience even better.",
+		"website": "https://redwoodjs.com/",
+		"company": "Tom Preston-Werner,Peter Pistorius,Rob Cameron,David Price",
+		"repo": "https://github.com/redwoodjs/redwood",
+		"project_type": "",
+		"license": "MIT",
+		"developer": "Tom Preston-Werner,Peter Pistorius,Rob Cameron,David Price",
+		"developer_socials": [
+			"https://twitter.com/mojombo/",
+			"https://twitter.com/appfactory/",
+			"https://www.linkedin.com/in/dsprice",
+			"https://twitter.com/thedavidprice"
+		],
+		"project_socials": [
+			"https://discord.com/invite/jjSYEQd",
+			"https://twitter.com/redwoodjs"
+		],
+		"best_email": "",
+		"contact_details": ""
+	}
+]
